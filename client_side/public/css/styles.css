@@ -1,0 +1,16 @@
+.modal-open{
+    display: block;
+    height:200px;
+    width:120px;
+    position: absolute;
+}
+
+.modal-close{
+    display: none;
+}
+
+.canvasStyle{
+    background-color: #FFFFE0;
+    top: 50%;
+    left: 50%;
+}
